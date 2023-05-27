@@ -1,4 +1,4 @@
- <img src="https://media2.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfE3CF9yggspOcbwPjb5PT737cVpr3ghMMWQ&usqp=CAU" alt="">
 <h1 align="center">Hi 👋, I'm Mohamed Abdi Hassan</h1>
 <h3 align="center">A passionate frontend developer And Back End Developer</h3>
 <img align="right"  src="https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif" alt="" >
