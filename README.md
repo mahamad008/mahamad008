@@ -1,11 +1,8 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfE3CF9yggspOcbwPjb5PT737cVpr3ghMMWQ&usqp=CAU" alt="">
 <h1 align="center">Hi 👋, I'm Mohamed Abdi Hassan</h1>
-<h3 align="center">A passionate frontend developer And Backend Developer</h3>
+<h3 align="center">A passionate Mobile app developer,Desktop app developer, frontend developer,Backend Developer and Deployment of application</h3>
 <img align="right"  src="https://thumbs.gfycat.com/BetterFalseKid-max-1mb.gif" alt="" >
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamad008&label=Profile%20views&color=0e75b6&style=flat" alt="mahamad008" /> </p>
-
-- 🌱 I’m currently learning **Nodejs and Express**
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahamad008&label=Profile%20views&color=0e75b6&style=flat" alt="mahamad008" /> </p
 - 💬 Ask me about **Html,css,javascript,typescript,c#,sass,Bootsrab,Tailwindcss,React,Postrgress, sql server and more**
 
 <h3 align="left">Connect with me:</h3>
