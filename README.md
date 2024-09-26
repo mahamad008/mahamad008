@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋 there , I'm Mohamed</h1>
-<h3 align="center">A passionate Prorammer from somalia</h3>
+<h3 align="center">A passionate Programmer from somalia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=code%20gif%20image&imgurl=https%3A%2F%2Fmedia3.giphy.com%2Fmedia%2FdZX3AduGrY3uJ7qCsx%2Fgiphy.gif%3Fcid%3D6c09b952hkap1sgazy6xlfh4lcllt880hzmznlcflzjvkpe0%26ep%3Dv1_internal_gif_by_id%26rid%3Dgiphy.gif%26ct%3Dg&imgrefurl=https%3A%2F%2Fgiphy.com%2Fgifs%2Fhackernoon-hacker-noon-dZX3AduGrY3uJ7qCsx&docid=P41CSVMwcV5eqM&tbnid=VZp0_1yUcLYMRM&vet=12ahUKEwi1-reQ9uCIAxX3xQIHHVAyATYQM3oECGUQAA..i&w=694&h=520&hcb=2&ved=2ahUKEwi1-reQ9uCIAxX3xQIHHVAyATYQM3oECGUQAA">
 
