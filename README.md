@@ -2,9 +2,20 @@
 <h3 align="center">Welcome to my GitHub profile!</h3>
 
 <p align="center">
-  I'm a passionate developer who loves coding and technology. 
-  I enjoy working on projects that make a difference and learning new things every day. 
-  Feel free to explore my repositories and connect with me!
+  I'm a passionate software developer with a love for creating innovative solutions to real-world problems. 
+  My journey in coding started with curiosity and has evolved into a full-blown passion for technology and development. 
+  I believe in the power of collaboration and open-source projects, and I strive to contribute to the community by sharing knowledge and resources.
+</p>
+
+<p align="center">
+  Over the years, I have honed my skills in various programming languages and frameworks. 
+  My expertise spans across web development, mobile app development, and backend systems. 
+  I enjoy tackling challenging projects that allow me to push my boundaries and learn new technologies.
+</p>
+
+<p align="center">
+  In my free time, you can find me exploring new frameworks, contributing to open-source projects, or writing technical blogs to share what I've learned. 
+  I also love connecting with fellow developers, so feel free to reach out!
 </p>
 
 <p align="center">
@@ -25,6 +36,9 @@
   <img src="https://img.shields.io/badge/React-ReactJS-blue" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-Node.js-green" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-Python-blue" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-Django-green" alt="Django" />
+  <img src="https://img.shields.io/badge/HTML5-HTML5-orange" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-CSS3-blue" alt="CSS3" />
 </p>
 
 <h3 align="center">🌟 My GitHub Stats:</h3>
